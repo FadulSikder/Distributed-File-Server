@@ -15,19 +15,13 @@ connection, negotiate the operation to be performed, and carry out the file tran
 
 same connection.
 
-In this project, my teammate and I used the C programming language and tried to implement
-
-RPC communication. The issue that we faced in the project was understanding requirements and
-
-translating them into C code.
-
 HOW TO RUN CODE
 
-In all 4 assignments we must run server file first and then client file in different terminal
+In all 4 program run the server file first and then client file in different terminal
 
 window.
 
-Assignment 1:
+Single Client Single Server:
 
 • **cd into location of assignment 1 (where client and server located)**
 
@@ -47,7 +41,7 @@ Assignment 1:
 
 
 
-Assignment 2:
+Multiple Client Single Server:
 
 • **cd into location of assignment 1 (where client and server located)**
 
@@ -67,7 +61,7 @@ Assignment 2:
 
 
 
-Assignment 3:
+Primitive RPC without Library Function:
 
 \*\* remember that for matrix part in this code please follow print out command in code (check
 
@@ -95,7 +89,7 @@ screenshots)
 
 
 
-Assignment 4:
+Primitive Asynchronous and Deferred RPC without Library Function:
 
 • **cd into location of assignment 1 (where client and server located)**
 
