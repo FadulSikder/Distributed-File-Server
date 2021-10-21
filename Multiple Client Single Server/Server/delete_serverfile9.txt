@@ -1,0 +1,2 @@
+This file will be deleted. 
+Copy this file to server folder if you already run the delete function once and want to test again.

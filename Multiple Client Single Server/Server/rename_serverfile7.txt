@@ -1,0 +1,2 @@
+This file will be renamed from serverfile_rename to given name.
+Copy this file to server folder if you already run the rename function once and want to test again.
